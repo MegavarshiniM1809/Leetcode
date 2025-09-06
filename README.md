@@ -13,4 +13,8 @@
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0125-valid-palindrome) |
+## Array
+|  |
+| ------- |
+| [1580-shuffle-the-array](https://github.com/MegavarshiniM1809/Leetcode/tree/master/1580-shuffle-the-array) |
 <!---LeetCode Topics End-->
