@@ -8,6 +8,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0125-valid-palindrome) |
 ## String
 |  |
@@ -17,6 +18,7 @@
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0075-sort-colors) |
 | [1580-shuffle-the-array](https://github.com/MegavarshiniM1809/Leetcode/tree/master/1580-shuffle-the-array) |
 ## Hash Table
 |  |
@@ -26,4 +28,8 @@
 |  |
 | ------- |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/MegavarshiniM1809/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
