@@ -5,11 +5,13 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0007-reverse-integer) |
+| [0189-rotate-array](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0189-rotate-array) |
 ## Two Pointers
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0283-move-zeroes) |
 ## String
 |  |
@@ -20,6 +22,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0075-sort-colors) |
+| [0189-rotate-array](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0283-move-zeroes) |
 | [1580-shuffle-the-array](https://github.com/MegavarshiniM1809/Leetcode/tree/master/1580-shuffle-the-array) |
 ## Hash Table
