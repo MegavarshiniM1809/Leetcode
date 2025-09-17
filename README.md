@@ -49,4 +49,20 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0169-majority-element) |
+## Stack
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0937-online-stock-span) |
+## Design
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0937-online-stock-span) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0937-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->
