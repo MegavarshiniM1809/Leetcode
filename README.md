@@ -13,6 +13,7 @@
 | [0125-valid-palindrome](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0283-move-zeroes) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/MegavarshiniM1809/Leetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 ## String
 |  |
 | ------- |
@@ -30,6 +31,7 @@
 | [0283-move-zeroes](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0566-reshape-the-matrix](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0566-reshape-the-matrix) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/MegavarshiniM1809/Leetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1580-shuffle-the-array](https://github.com/MegavarshiniM1809/Leetcode/tree/master/1580-shuffle-the-array) |
 ## Hash Table
 |  |
@@ -50,6 +52,7 @@
 | [0075-sort-colors](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0229-majority-element-ii) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/MegavarshiniM1809/Leetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -86,4 +89,8 @@
 |  |
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0566-reshape-the-matrix) |
+## Binary Search
+|  |
+| ------- |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/MegavarshiniM1809/Leetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 <!---LeetCode Topics End-->
