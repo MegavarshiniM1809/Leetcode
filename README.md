@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0007-reverse-integer) |
+| [0070-climbing-stairs](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0189-rotate-array) |
 ## Two Pointers
 |  |
@@ -76,6 +77,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0152-maximum-product-subarray) |
 ## Sliding Window
 |  |
@@ -93,4 +95,8 @@
 |  |
 | ------- |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/MegavarshiniM1809/Leetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
