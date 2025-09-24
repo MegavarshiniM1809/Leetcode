@@ -28,6 +28,7 @@
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0039-combination-sum) |
 | [0075-sort-colors](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0075-sort-colors) |
 | [0152-maximum-product-subarray](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0169-majority-element) |
@@ -107,4 +108,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0070-climbing-stairs) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
