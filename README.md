@@ -7,6 +7,7 @@
 | [0007-reverse-integer](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0007-reverse-integer) |
 | [0070-climbing-stairs](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0189-rotate-array) |
+| [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/MegavarshiniM1809/Leetcode/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 ## Two Pointers
 |  |
 | ------- |
@@ -43,18 +44,21 @@
 | [0747-min-cost-climbing-stairs](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/MegavarshiniM1809/Leetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1580-shuffle-the-array](https://github.com/MegavarshiniM1809/Leetcode/tree/master/1580-shuffle-the-array) |
+| [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/MegavarshiniM1809/Leetcode/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 ## Hash Table
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0229-majority-element-ii) |
+| [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/MegavarshiniM1809/Leetcode/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/MegavarshiniM1809/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0229-majority-element-ii) |
+| [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/MegavarshiniM1809/Leetcode/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/MegavarshiniM1809/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sorting
 |  |
@@ -123,4 +127,8 @@
 |  |
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0435-non-overlapping-intervals) |
+## Number Theory
+|  |
+| ------- |
+| [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/MegavarshiniM1809/Leetcode/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 <!---LeetCode Topics End-->
