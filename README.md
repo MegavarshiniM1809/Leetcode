@@ -12,6 +12,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0027-remove-element](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0189-rotate-array) |
@@ -29,6 +30,7 @@
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0027-remove-element) |
 | [0039-combination-sum](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0056-merge-intervals](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0056-merge-intervals) |
