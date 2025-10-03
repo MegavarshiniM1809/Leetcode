@@ -107,11 +107,13 @@
 | [0085-maximal-rectangle](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0937-online-stock-span](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0937-online-stock-span) |
 ## Design
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0937-online-stock-span](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0937-online-stock-span) |
 ## Monotonic Stack
 |  |
@@ -186,4 +188,8 @@
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0044-wildcard-matching) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
