@@ -108,12 +108,14 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0937-online-stock-span](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0937-online-stock-span) |
 ## Design
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0937-online-stock-span](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0937-online-stock-span) |
 ## Monotonic Stack
 |  |
@@ -192,4 +194,5 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
