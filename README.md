@@ -53,6 +53,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0229-majority-element-ii](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0283-move-zeroes) |
 | [0435-non-overlapping-intervals](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0435-non-overlapping-intervals) |
@@ -131,6 +132,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0940-fruit-into-baskets](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0940-fruit-into-baskets) |
 ## Matrix
@@ -145,6 +147,7 @@
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/MegavarshiniM1809/Leetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 ## Memoization
 |  |
@@ -164,4 +167,8 @@
 |  |
 | ------- |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/MegavarshiniM1809/Leetcode/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
