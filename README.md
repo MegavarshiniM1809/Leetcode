@@ -19,6 +19,7 @@
 | [0042-trapping-rain-water](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0283-move-zeroes) |
 | [0647-palindromic-substrings](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0647-palindromic-substrings) |
@@ -44,6 +45,7 @@
 | [0056-merge-intervals](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0075-sort-colors) |
 | [0152-maximum-product-subarray](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0152-maximum-product-subarray) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0229-majority-element-ii) |
@@ -127,6 +129,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/MegavarshiniM1809/Leetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 ## Memoization
 |  |
