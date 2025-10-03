@@ -97,10 +97,12 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0155-min-stack](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0155-min-stack) |
 | [0937-online-stock-span](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0937-online-stock-span) |
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0155-min-stack) |
 | [0937-online-stock-span](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0937-online-stock-span) |
 ## Monotonic Stack
 |  |
