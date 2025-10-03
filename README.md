@@ -56,6 +56,7 @@
 | [0169-majority-element](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0221-maximal-square](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0221-maximal-square) |
 | [0229-majority-element-ii](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0283-move-zeroes) |
 | [0435-non-overlapping-intervals](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0435-non-overlapping-intervals) |
@@ -131,6 +132,7 @@
 | [0070-climbing-stairs](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0152-maximum-product-subarray](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0152-maximum-product-subarray) |
+| [0221-maximal-square](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0221-maximal-square) |
 | [0435-non-overlapping-intervals](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0647-palindromic-substrings](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0747-min-cost-climbing-stairs](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
@@ -145,6 +147,7 @@
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0085-maximal-rectangle) |
+| [0221-maximal-square](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0221-maximal-square) |
 | [0566-reshape-the-matrix](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0566-reshape-the-matrix) |
 ## Simulation
 |  |
