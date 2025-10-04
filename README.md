@@ -62,6 +62,7 @@
 | [0435-non-overlapping-intervals](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0485-max-consecutive-ones](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0566-reshape-the-matrix](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0566-reshape-the-matrix) |
+| [0643-maximum-average-subarray-i](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0735-asteroid-collision](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0735-asteroid-collision) |
 | [0747-min-cost-climbing-stairs](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0940-fruit-into-baskets](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0940-fruit-into-baskets) |
@@ -148,6 +149,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0643-maximum-average-subarray-i](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0940-fruit-into-baskets](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0940-fruit-into-baskets) |
 ## Matrix
 |  |
