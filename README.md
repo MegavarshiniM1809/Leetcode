@@ -35,6 +35,7 @@
 | [0125-valid-palindrome](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0125-valid-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0647-palindromic-substrings](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0647-palindromic-substrings) |
+| [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/MegavarshiniM1809/Leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/MegavarshiniM1809/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Array
 |  |
@@ -145,6 +146,7 @@
 | [0435-non-overlapping-intervals](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0647-palindromic-substrings](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0747-min-cost-climbing-stairs](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
+| [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/MegavarshiniM1809/Leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Sliding Window
 |  |
 | ------- |
