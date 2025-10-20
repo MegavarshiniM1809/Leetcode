@@ -36,6 +36,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0647-palindromic-substrings](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0647-palindromic-substrings) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/MegavarshiniM1809/Leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/MegavarshiniM1809/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/MegavarshiniM1809/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Array
 |  |
@@ -72,6 +73,7 @@
 | [1580-shuffle-the-array](https://github.com/MegavarshiniM1809/Leetcode/tree/master/1580-shuffle-the-array) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/MegavarshiniM1809/Leetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/MegavarshiniM1809/Leetcode/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/MegavarshiniM1809/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Hash Table
 |  |
 | ------- |
@@ -168,6 +170,7 @@
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0735-asteroid-collision](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0735-asteroid-collision) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/MegavarshiniM1809/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Binary Search
 |  |
 | ------- |
