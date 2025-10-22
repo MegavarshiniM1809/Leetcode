@@ -8,6 +8,7 @@
 | [0070-climbing-stairs](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0189-rotate-array) |
+| [0258-add-digits](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0258-add-digits) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/MegavarshiniM1809/Leetcode/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 ## Two Pointers
 |  |
@@ -168,6 +169,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0258-add-digits) |
 | [0566-reshape-the-matrix](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0735-asteroid-collision](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0735-asteroid-collision) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/MegavarshiniM1809/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -195,6 +197,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0258-add-digits) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/MegavarshiniM1809/Leetcode/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 ## Prefix Sum
 |  |
