@@ -10,6 +10,7 @@
 | [0189-rotate-array](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0258-add-digits) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/MegavarshiniM1809/Leetcode/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/MegavarshiniM1809/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Two Pointers
 |  |
 | ------- |
@@ -224,4 +225,8 @@
 |  |
 | ------- |
 | [1137-height-checker](https://github.com/MegavarshiniM1809/Leetcode/tree/master/1137-height-checker) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3676-smallest-number-with-all-set-bits](https://github.com/MegavarshiniM1809/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 <!---LeetCode Topics End-->
