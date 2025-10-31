@@ -10,6 +10,7 @@
 | [0189-rotate-array](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0258-add-digits) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/MegavarshiniM1809/Leetcode/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/MegavarshiniM1809/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/MegavarshiniM1809/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Two Pointers
 |  |
@@ -78,6 +79,7 @@
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/MegavarshiniM1809/Leetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/MegavarshiniM1809/Leetcode/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/MegavarshiniM1809/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/MegavarshiniM1809/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Hash Table
 |  |
 | ------- |
@@ -90,6 +92,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0940-fruit-into-baskets](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/MegavarshiniM1809/Leetcode/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/MegavarshiniM1809/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/MegavarshiniM1809/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Counting
 |  |
