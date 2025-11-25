@@ -245,4 +245,5 @@
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0237-delete-node-in-a-linked-list](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
