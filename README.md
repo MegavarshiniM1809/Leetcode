@@ -258,4 +258,5 @@
 | [0206-reverse-linked-list](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
+| [2074-reverse-nodes-in-even-length-groups](https://github.com/MegavarshiniM1809/Leetcode/tree/master/2074-reverse-nodes-in-even-length-groups) |
 <!---LeetCode Topics End-->
