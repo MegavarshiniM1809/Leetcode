@@ -6,6 +6,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0189-rotate-array) |
@@ -41,6 +42,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0013-roman-to-integer) |
 | [0044-wildcard-matching](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0125-valid-palindrome) |
@@ -94,6 +96,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0142-linked-list-cycle-ii](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0142-linked-list-cycle-ii) |
