@@ -204,6 +204,7 @@
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/MegavarshiniM1809/Leetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 ## Memoization
@@ -253,6 +254,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/MegavarshiniM1809/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Linked List
@@ -271,6 +273,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -279,4 +282,5 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
