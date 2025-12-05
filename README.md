@@ -273,6 +273,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0199-binary-tree-right-side-view) |
@@ -282,12 +283,14 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0100-same-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0199-binary-tree-right-side-view) |
@@ -296,6 +299,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0199-binary-tree-right-side-view) |
