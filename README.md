@@ -47,6 +47,7 @@
 | [0049-group-anagrams](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0125-valid-palindrome) |
+| [0205-isomorphic-strings](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0647-palindromic-substrings](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0647-palindromic-substrings) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/MegavarshiniM1809/Leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -103,6 +104,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0229-majority-element-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
