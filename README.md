@@ -34,6 +34,7 @@
 | [0234-palindrome-linked-list](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0392-is-subsequence](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0647-palindromic-substrings) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/MegavarshiniM1809/Leetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 ## String
@@ -48,6 +49,7 @@
 | [0058-length-of-last-word](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0205-isomorphic-strings) |
+| [0392-is-subsequence](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0647-palindromic-substrings](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0647-palindromic-substrings) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/MegavarshiniM1809/Leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -176,6 +178,7 @@
 | [0085-maximal-rectangle](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0152-maximum-product-subarray](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0221-maximal-square](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0221-maximal-square) |
+| [0392-is-subsequence](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0647-palindromic-substrings](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0747-min-cost-climbing-stairs](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
