@@ -12,6 +12,7 @@
 | [0189-rotate-array](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0258-add-digits) |
+| [0507-perfect-number](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0507-perfect-number) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/MegavarshiniM1809/Leetcode/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/MegavarshiniM1809/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/MegavarshiniM1809/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
