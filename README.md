@@ -78,6 +78,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0221-maximal-square](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0221-maximal-square) |
 | [0229-majority-element-ii](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0229-majority-element-ii) |
@@ -199,6 +200,7 @@
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0085-maximal-rectangle) |
+| [0200-number-of-islands](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0221-maximal-square) |
 | [0566-reshape-the-matrix](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0566-reshape-the-matrix) |
 ## Simulation
@@ -257,6 +259,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0200-number-of-islands) |
 ## Counting Sort
 |  |
 | ------- |
@@ -298,6 +301,7 @@
 | [0100-same-tree](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0101-symmetric-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0200-number-of-islands) |
 | [0543-diameter-of-binary-tree](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
@@ -318,4 +322,5 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
