@@ -15,6 +15,7 @@
 | [0507-perfect-number](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0507-perfect-number) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/MegavarshiniM1809/Leetcode/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2769-find-the-maximum-achievable-number](https://github.com/MegavarshiniM1809/Leetcode/tree/master/2769-find-the-maximum-achievable-number) |
+| [2806-account-balance-after-rounded-purchase](https://github.com/MegavarshiniM1809/Leetcode/tree/master/2806-account-balance-after-rounded-purchase) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/MegavarshiniM1809/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/MegavarshiniM1809/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Two Pointers
