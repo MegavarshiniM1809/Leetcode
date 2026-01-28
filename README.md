@@ -12,6 +12,7 @@
 | [0189-rotate-array](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0258-add-digits) |
+| [0319-bulb-switcher](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0319-bulb-switcher) |
 | [0507-perfect-number](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0507-perfect-number) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/MegavarshiniM1809/Leetcode/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2769-find-the-maximum-achievable-number](https://github.com/MegavarshiniM1809/Leetcode/tree/master/2769-find-the-maximum-achievable-number) |
@@ -332,4 +333,8 @@
 | [0199-binary-tree-right-side-view](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0463-island-perimeter) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
