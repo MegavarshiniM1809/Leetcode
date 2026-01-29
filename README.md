@@ -15,6 +15,7 @@
 | [0319-bulb-switcher](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0319-bulb-switcher) |
 | [0507-perfect-number](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0507-perfect-number) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/MegavarshiniM1809/Leetcode/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
+| [2582-pass-the-pillow](https://github.com/MegavarshiniM1809/Leetcode/tree/master/2582-pass-the-pillow) |
 | [2769-find-the-maximum-achievable-number](https://github.com/MegavarshiniM1809/Leetcode/tree/master/2769-find-the-maximum-achievable-number) |
 | [2806-account-balance-after-rounded-purchase](https://github.com/MegavarshiniM1809/Leetcode/tree/master/2806-account-balance-after-rounded-purchase) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/MegavarshiniM1809/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -217,6 +218,7 @@
 | [0566-reshape-the-matrix](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0735-asteroid-collision](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0735-asteroid-collision) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/MegavarshiniM1809/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2582-pass-the-pillow](https://github.com/MegavarshiniM1809/Leetcode/tree/master/2582-pass-the-pillow) |
 ## Binary Search
 |  |
 | ------- |
