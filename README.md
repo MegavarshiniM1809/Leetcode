@@ -50,6 +50,7 @@
 | [0005-longest-palindromic-substring](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0020-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0058-length-of-last-word) |
@@ -153,6 +154,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
