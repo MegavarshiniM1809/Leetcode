@@ -15,6 +15,7 @@
 | [0319-bulb-switcher](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0319-bulb-switcher) |
 | [0507-perfect-number](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0507-perfect-number) |
 | [1518-water-bottles](https://github.com/MegavarshiniM1809/Leetcode/tree/master/1518-water-bottles) |
+| [1952-three-divisors](https://github.com/MegavarshiniM1809/Leetcode/tree/master/1952-three-divisors) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/MegavarshiniM1809/Leetcode/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2582-pass-the-pillow](https://github.com/MegavarshiniM1809/Leetcode/tree/master/2582-pass-the-pillow) |
 | [2769-find-the-maximum-achievable-number](https://github.com/MegavarshiniM1809/Leetcode/tree/master/2769-find-the-maximum-achievable-number) |
@@ -251,6 +252,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0258-add-digits) |
+| [1952-three-divisors](https://github.com/MegavarshiniM1809/Leetcode/tree/master/1952-three-divisors) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/MegavarshiniM1809/Leetcode/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 ## Prefix Sum
 |  |
@@ -343,4 +345,8 @@
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0319-bulb-switcher) |
+## Enumeration
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/MegavarshiniM1809/Leetcode/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->
