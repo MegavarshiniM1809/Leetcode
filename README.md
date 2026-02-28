@@ -18,6 +18,7 @@
 | [1952-three-divisors](https://github.com/MegavarshiniM1809/Leetcode/tree/master/1952-three-divisors) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/MegavarshiniM1809/Leetcode/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2582-pass-the-pillow](https://github.com/MegavarshiniM1809/Leetcode/tree/master/2582-pass-the-pillow) |
+| [2739-total-distance-traveled](https://github.com/MegavarshiniM1809/Leetcode/tree/master/2739-total-distance-traveled) |
 | [2769-find-the-maximum-achievable-number](https://github.com/MegavarshiniM1809/Leetcode/tree/master/2769-find-the-maximum-achievable-number) |
 | [2806-account-balance-after-rounded-purchase](https://github.com/MegavarshiniM1809/Leetcode/tree/master/2806-account-balance-after-rounded-purchase) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/MegavarshiniM1809/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -224,6 +225,7 @@
 | [1518-water-bottles](https://github.com/MegavarshiniM1809/Leetcode/tree/master/1518-water-bottles) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/MegavarshiniM1809/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2582-pass-the-pillow](https://github.com/MegavarshiniM1809/Leetcode/tree/master/2582-pass-the-pillow) |
+| [2739-total-distance-traveled](https://github.com/MegavarshiniM1809/Leetcode/tree/master/2739-total-distance-traveled) |
 ## Binary Search
 |  |
 | ------- |
