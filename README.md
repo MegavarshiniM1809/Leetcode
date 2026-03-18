@@ -109,6 +109,7 @@
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/MegavarshiniM1809/Leetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1580-shuffle-the-array](https://github.com/MegavarshiniM1809/Leetcode/tree/master/1580-shuffle-the-array) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/MegavarshiniM1809/Leetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
+| [2079-watering-plants](https://github.com/MegavarshiniM1809/Leetcode/tree/master/2079-watering-plants) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/MegavarshiniM1809/Leetcode/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/MegavarshiniM1809/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/MegavarshiniM1809/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -227,6 +228,7 @@
 | [0566-reshape-the-matrix](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0735-asteroid-collision](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0735-asteroid-collision) |
 | [1518-water-bottles](https://github.com/MegavarshiniM1809/Leetcode/tree/master/1518-water-bottles) |
+| [2079-watering-plants](https://github.com/MegavarshiniM1809/Leetcode/tree/master/2079-watering-plants) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/MegavarshiniM1809/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2582-pass-the-pillow](https://github.com/MegavarshiniM1809/Leetcode/tree/master/2582-pass-the-pillow) |
 | [2739-total-distance-traveled](https://github.com/MegavarshiniM1809/Leetcode/tree/master/2739-total-distance-traveled) |
