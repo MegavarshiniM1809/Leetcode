@@ -14,6 +14,7 @@
 | [0189-rotate-array](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0258-add-digits) |
+| [0263-ugly-number](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0263-ugly-number) |
 | [0319-bulb-switcher](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0319-bulb-switcher) |
 | [0507-perfect-number](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0507-perfect-number) |
 | [1518-water-bottles](https://github.com/MegavarshiniM1809/Leetcode/tree/master/1518-water-bottles) |
