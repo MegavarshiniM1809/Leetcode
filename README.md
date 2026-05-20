@@ -113,6 +113,7 @@
 | [2079-watering-plants](https://github.com/MegavarshiniM1809/Leetcode/tree/master/2079-watering-plants) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/MegavarshiniM1809/Leetcode/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/MegavarshiniM1809/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/MegavarshiniM1809/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/MegavarshiniM1809/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Hash Table
 |  |
@@ -132,6 +133,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0940-fruit-into-baskets](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/MegavarshiniM1809/Leetcode/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/MegavarshiniM1809/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/MegavarshiniM1809/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/MegavarshiniM1809/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Counting
@@ -295,6 +297,7 @@
 | [0287-find-the-duplicate-number](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0476-number-complement](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0476-number-complement) |
 | [0693-binary-number-with-alternating-bits](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0693-binary-number-with-alternating-bits) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/MegavarshiniM1809/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/MegavarshiniM1809/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Linked List
 |  |
