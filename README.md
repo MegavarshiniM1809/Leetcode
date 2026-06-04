@@ -26,6 +26,7 @@
 | [2806-account-balance-after-rounded-purchase](https://github.com/MegavarshiniM1809/Leetcode/tree/master/2806-account-balance-after-rounded-purchase) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/MegavarshiniM1809/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/MegavarshiniM1809/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/MegavarshiniM1809/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -212,6 +213,7 @@
 | [0647-palindromic-substrings](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0747-min-cost-climbing-stairs](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/MegavarshiniM1809/Leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/MegavarshiniM1809/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -369,6 +371,7 @@
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/MegavarshiniM1809/Leetcode/tree/master/1952-three-divisors) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/MegavarshiniM1809/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
