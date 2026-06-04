@@ -380,4 +380,8 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Database
+|  |
+| ------- |
+| [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/MegavarshiniM1809/Leetcode/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 <!---LeetCode Topics End-->
