@@ -84,6 +84,7 @@
 | [0042-trapping-rain-water](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0075-sort-colors) |
 | [0085-maximal-rectangle](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0085-maximal-rectangle) |
@@ -165,6 +166,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Stack
@@ -204,6 +206,7 @@
 | [0005-longest-palindromic-substring](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0044-wildcard-matching) |
+| [0053-maximum-subarray](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0152-maximum-product-subarray](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0152-maximum-product-subarray) |
