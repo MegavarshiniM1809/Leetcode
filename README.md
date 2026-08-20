@@ -112,6 +112,7 @@
 | [0940-fruit-into-baskets](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1137-height-checker](https://github.com/MegavarshiniM1809/Leetcode/tree/master/1137-height-checker) |
 | [1200-minimum-absolute-difference](https://github.com/MegavarshiniM1809/Leetcode/tree/master/1200-minimum-absolute-difference) |
+| [1480-running-sum-of-1d-array](https://github.com/MegavarshiniM1809/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/MegavarshiniM1809/Leetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1580-shuffle-the-array](https://github.com/MegavarshiniM1809/Leetcode/tree/master/1580-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/MegavarshiniM1809/Leetcode/tree/master/1929-concatenation-of-array) |
@@ -283,6 +284,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [1480-running-sum-of-1d-array](https://github.com/MegavarshiniM1809/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 ## Recursion
 |  |
 | ------- |
