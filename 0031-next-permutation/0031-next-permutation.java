@@ -20,8 +20,8 @@ class Solution {
                 break;
             }
         }
-        for(int i=idx+1;i<n;i++){
-            int j=n-1;
+        int i=idx+1;
+        int j=n-1;
             while(i<=j){
                 int temp = nums[i];
                 nums[i] = nums[j];
@@ -29,8 +29,6 @@ class Solution {
                 i++;
                 j--;
             }
-            break;
-        }
         
     }
 }
