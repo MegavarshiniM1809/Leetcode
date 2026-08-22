@@ -103,6 +103,7 @@
 | [0229-majority-element-ii](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0414-third-maximum-number](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0463-island-perimeter](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0463-island-perimeter) |
@@ -162,6 +163,7 @@
 | [0169-majority-element](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0229-majority-element-ii) |
+| [0414-third-maximum-number](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/MegavarshiniM1809/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [1137-height-checker](https://github.com/MegavarshiniM1809/Leetcode/tree/master/1137-height-checker) |
 | [1200-minimum-absolute-difference](https://github.com/MegavarshiniM1809/Leetcode/tree/master/1200-minimum-absolute-difference) |
