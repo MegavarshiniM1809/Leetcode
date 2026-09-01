@@ -1,25 +1,22 @@
 class Solution {
     public boolean isPalindrome(String s) {
-      StringBuilder dup=new StringBuilder();
-     for(int i=0;i<s.length();i++){
-        if(s.charAt(i)<97 || s.charAt(i)>122){
-            if((s.charAt(i)<97 || s.charAt(i)>122)&&(s.charAt(i)<65 || s.charAt(i)>90)&&(s.charAt(i)<'0'||s.charAt(i)>'9')){
-                continue;
+      int l=0;
+      int r=s.length()-1;
+      while(l<r){
+        char ch1=s.charAt(l);
+        char ch2=s.charAt(r);
+        if((ch1>='a'&&ch1<='z')||(ch1>='A' && ch1<='Z')||(ch1>='0' && ch1<='9')){
+            if((ch2>='a'&&ch2<='z')||(ch2>='A' && ch2<='Z')||(ch2>='0' && ch2<='9')){
+                if(Character.toLowerCase(ch1)!=Character.toLowerCase(ch2))return false;
+                else {
+                    l++;
+                    r--;
+                }
             }
-            else{
-                dup.append((char)(s.charAt(i) + 32));
-            }
+            else r--;
         }
-        else{
-            dup.append(s.charAt(i));
-        }
-     }
-     String original = dup.toString();
-     String reversed = new StringBuilder(dup).reverse().toString();
-
-if (original.equals(reversed)) {
-    return true;
-} return false;
-     
+        else l++;
+      }
+      return true;
     }
 }
